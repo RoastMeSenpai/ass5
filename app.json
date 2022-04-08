@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "todo list",
+    "description": "xpetu's soloq to do list",
+    "scheme": "xpetu-soloq-to-dolist",
+    "slug": "xpetu-soloq-to-dolist",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "githubUrl": "https://github.com/RoastMeSenpai/sqlite-example-master",
+    "orientation": "portrait",
+    "primaryColor": "#ffffff",
+    "icon": "./assets/xpetu.png",
+    "splash": {
+      "backgroundColor": "#000000",
+      "image": "./assets/shen.png",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
